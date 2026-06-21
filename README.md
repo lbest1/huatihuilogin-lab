@@ -1,2 +1,14 @@
 # huatihuilogin-lab
-HTML page archive and documentation
+
+自动发布文件目录
+
+发布程序会将生成后的页面写入本仓库，形成可追踪的文件记录。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
